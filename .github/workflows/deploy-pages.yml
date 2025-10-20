@@ -17,7 +17,7 @@ jobs:
     env:
       REPO_URL: "williametten/williametten.github.io"  # 远程仓库的 URL
       BUILD_PATH: ".vitepress/dist"  # 构建输出路径
-      CUSTOM_DOMAIN: "betar.70126.dect"  # 自定义域名
+      CUSTOM_DOMAIN: "williametten.github.io"  # 自定义域名
 
     steps:
       - name: Set up Node.js
