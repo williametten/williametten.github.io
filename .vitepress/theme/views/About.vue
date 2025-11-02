@@ -71,7 +71,7 @@
           </a>
         </span>
         <img
-          src="https://c-ssl.dtstatic.com/uploads/blog/202209/06/20220906114708_8eb10.thumb.1000_0.jpg"
+          src="https://pan.811520.xyz/2024-11/1730434481-1730434479289.webp"
           alt="male"
           class="male"
         />
